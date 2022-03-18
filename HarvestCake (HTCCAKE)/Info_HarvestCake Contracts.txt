@@ -9,7 +9,7 @@
 trades to be sent to the correct wallet addresses.
 
 #SyrupBar| Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
-*-This contract works for the Syrup pools
+*-This contract works for the Syrup pools. Is the one which interatcs to give rewards to users for staking and farming.
 
 #MasterChef | Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
 *-This is the contract which works for Farms and harevsting of cake tokens. This contract is the owner of the CAKE token.
