@@ -1,0 +1,16 @@
+#HTCCAKE | Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
+0xaC72026454e15f671B4f0b4E8C0fC5faD0f77107
+
+#HarvestswapFactory | Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
+*-This contract helps the trade and liquidity contracts to function and is the owner and router for all contracts to connect and work together.
+
+#HarvestswapRouter | Contract Source Code Verified (Exact Match) |  No Contract Security Audit Submitted
+*-This is the contact which helps in functions of the swap trades to get router to the correct pairs and also for the 
+trades to be sent to the correct wallet addresses.
+
+#SyrupBar| Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
+*-This contract works for the Syrup pools
+
+#MasterChef | Contract Source Code Verified (Exact Match) | No Contract Security Audit Submitted
+*-This is the contract which works for Farms and harevsting of cake tokens. This contract is the owner of the CAKE token.
+
