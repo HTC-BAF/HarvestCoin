@@ -1,0 +1,2 @@
+# HarvestCoin
+HTC Token
